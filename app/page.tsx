@@ -472,6 +472,27 @@ export default function Home() {
               },
 
               {
+                title: "Shield Her",
+                description:
+                  "Empowering women’s safety with real-time alerts, location tracking, and emergency contact dashboard.",
+                tags: ["React", "Node.js", "GeoLocation", "Safety App"],
+                image: ShieldHer,
+                featured: true,
+                codeUrl: "https://shield-her.vercel.app/",
+                demoUrl: "https://shield-her.vercel.app/",
+              },
+              {
+                title: "EventHub Pro",
+                description:
+                  "All-in-one event management dashboard — schedule events, track attendees, and visualize engagement metrics.",
+                tags: ["React", "Node.js", "Charts.js", "Event Management"],
+                image: EventHub,
+                featured: true,
+                codeUrl: "https://v0-animated-event-tracker.vercel.app/",
+                demoUrl: "https://v0-animated-event-tracker.vercel.app/",
+              },
+
+              {
                 title: "AI Content Generator",
                 description:
                   "An AI-powered application that generates high-quality content for blogs and social media.",
